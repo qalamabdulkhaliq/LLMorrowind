@@ -1,3 +1,0 @@
--- MWSE crashes if there are two places which call
--- e.element:registerAfter("preUpdate", firstPreUpdate)
--- Therefore, I disable UIExpansions' MenuDialog so my dialog code can work.
